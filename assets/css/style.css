@@ -1,0 +1,104 @@
+/************************************************/
+/* Style principal du style bleau-equi */
+/************************************************/
+
+/* MENU
+
+1. General
+2. Navbar
+	2.1. Navbar bottom (contact)
+	2.2. Navbar page pratiquer.php
+	2.3. Navbar page voir.php
+	2.4. Navbar page actu.php
+	2.5. Navbar page contact.php
+3. Body
+4. Footer
+
+*/
+
+/*********
+1. General
+*********/
+body {
+
+}
+div {
+
+}
+
+/*********
+2. Navbar
+*********/
+
+/* 2.1. Navbar bottom (contact) */
+
+
+/* 2.1. Navbar page pratiquer.php */
+
+
+/* 2.1. Navbar page voir.php */
+
+
+/* 2.1. Navbar page actu.php */
+
+
+/* 2.1. Navbar page contact.php */
+
+
+/*********
+3. Body
+*********/
+
+
+/*********
+4. Footer
+*********/
+
+
+
+
+/***********************************
+************************************
+Exemple de style contenant le @media, venant de l'atelier SPACE_INVADOR:
+
+.container_custom {
+	height: 600px;
+	width: 500px;
+	background-color: black;
+	width: 100vh;
+	padding: 0;
+}
+
+.row_custom {
+	height: 12.5%;
+	border: 1px solid black;
+	margin: 0;
+	padding: 0;
+}
+
+.full {
+	height: 100%;
+	background-color: red;
+}
+
+.height {
+	height: 100%;
+	background-color: black;
+	padding: 0;
+}
+
+@media screen and (width: 940px) {
+	.container_custom {
+		height: 350px;
+	}
+}
+
+@media screen and (width: 640px) {
+	.container_custom {
+		height: 200px;
+	}
+}
+
+
+************************************
+***********************************/
