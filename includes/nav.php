@@ -1,0 +1,1 @@
+<!-- Navigation à reprendre sur les pages sauf index -->
