@@ -1,3 +1,4 @@
+/* Global CSS */
 body{ 
 	background-image: url(http://image.noelshack.com/fichiers/2017/09/1488289785-horse-shoe-110987.jpg);
 	 background-size: cover; 
@@ -5,44 +6,42 @@ body{
 	}
 
 table{
-background: rgba(255, 255, 255, .5);
+	background: rgba(255, 255, 255, .5);
+}
+
+/* Custom Title */
+h1,
+h2{
+	font-family: cinzel;
+	text-align: center;
+	text-shadow: 2px 2px 0px white;
+	padding: 50px 50px 50px 50px;
 }
 
 h1{
-font-family: cinzel;
-text-align: center;
-text-shadow: 2px 2px 0px white;
-line-height: 110%;
-padding: 50px 50px 50px 50px;
+	line-height: 110%;
+}
+h3{
+	font-family: cinzel;
+}
+div{
+	font-size: medium;
+	padding: 30px 30px 30px 30px;
+	text-align:center;
 }
 
-h2{
-font-family: cinzel;
-text-align: center;
-text-shadow: 2px 2px 0px white;
-padding: 50px 50px 50px 50px;
-}
+/* Fin Global CSS */
+
 
 .container_custom{
-background: rgba(255, 255, 255, .5);
-color: black;
-
+	background: rgba(255, 255, 255, .5);
+	color: black;
 }
 
-div{
-font-size: medium;
-padding: 30px 30px 30px 30px;
-text-align:center;
 
-}
-
-h3{
-font-family: cinzel;
-}
 
 .container_intro{
-color: grey;
-
+	color: grey;
 }
 
 
