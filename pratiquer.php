@@ -14,7 +14,7 @@
 				<!-- call css -->
 
 			<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-			<link rel="stylesheet" type="text/css" href="assets/orstyle.css">
+			<link rel="stylesheet" type="text/css" href="assets/css/orstyle.css">
 
 			 	<!-- Optional theme -->
 
