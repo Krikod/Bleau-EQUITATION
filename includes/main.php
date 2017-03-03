@@ -45,7 +45,7 @@
 		
 		<div class="col-xs-offset-2 col-xs-8 actu">
 			
-			<span>ACTUALITÉ <a href="pratiquer.php">►</a></span>
+			<span>ACTUALITÉ <a href="#">►</a></span>
 
 		</div>
 
@@ -66,7 +66,7 @@
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-			<div class="col-xs-offset-0 col-xs-3  pract_box"><br /><a href="#">Pratiquer</a></div>
+			<div class="col-xs-offset-0 col-xs-3  pract_box"><br /><a href="pratiquer.php">Pratiquer</a></div>
 
 	</div>
 
