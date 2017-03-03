@@ -6,8 +6,7 @@
 
 	<!-- Call CSS -->
 
-	<link rel="stylesheet" type="text/css" href="style_header.css">
-	<link rel="stylesheet" type="text/css" href="style_main.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/style_main.css">
 
 	<!--Bootstrap-->
 	
