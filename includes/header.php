@@ -8,7 +8,6 @@
 
 	<!-- Call CSS -->
 	<link rel="stylesheet" type="text/css" href="../assets/style_header.css">
->>>>>>> c_header
 
 	<!-- Bootstrap -->
 	
