@@ -7,7 +7,7 @@
 	<title>Bleau'Equitation</title>
 
 	<!-- Call CSS -->
-	<link rel="stylesheet" type="text/css" href="../assets/style_header.css">
+	<link rel="stylesheet" type="text/css" href="./assets/css/style_header.css">
 
 	<!-- Bootstrap -->
 	
