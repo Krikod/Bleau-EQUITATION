@@ -22,7 +22,7 @@
 	<div class="row row_custom">
 		
 		<div class="col-xs-offset-2 col-xs-6 to_see">
-			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="#">À voir</a></div>
+			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="voir.php">À voir</a></div>
 			<div class="col-xs-offset-0 col-xs-9 to_see_text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -45,7 +45,7 @@
 		
 		<div class="col-xs-offset-2 col-xs-8 actu">
 			
-			<span>ACTUALITÉ <a href="#">►</a></span>
+			<span>ACTUALITÉ <a href="pratiquer.php">►</a></span>
 
 		</div>
 
