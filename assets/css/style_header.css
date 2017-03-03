@@ -1,0 +1,127 @@
+/********************/
+/*  CSS du Header   */
+/********************/
+
+
+/* Navigation
+
+1. Container
+2. Row
+3. Titre
+4. Logo
+5. Introduction "parent"
+	5.1. Introduction inactive
+	5.2. Introduction après le passage de la souris
+	5.3. Hover de l'introduction
+6. Logo Facebook & Twitter
+	6.1 Hover des logos Facebook & Twitter
+*/
+
+/* 1.Container */
+.container_custom{
+	height: 100vh;
+	width: 100vw;
+	background-color : ;
+	padding-right: 0;
+	padding-left: 0;
+
+}
+
+/* 2. Row */
+.row_custom{
+	height: %;
+	margin-left: 0;
+	margin-right: 0;
+	padding-right: 1%;
+}
+
+/* 3. Titre */
+.bleauequitation{
+	width: 5%;
+	padding-top: 2%
+}
+
+/* 4. Logo */
+.horse_logo{
+	max-width: 50% !important;
+}
+
+/* 5. Introduction "parent" */
+.intro{
+	background: none;
+	height: 180px;
+	margin-right: 0;
+	margin-top: 1%;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 10px white;
+}
+
+/* 5.1. Introduction inactive */
+.intro_close{
+	visibility: visible;
+	display: block;
+	transition: all 1s;
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-size: 15px;
+	color: white;
+}
+
+/* 5.2. Introduction après le passage de la souris */
+.intro_open{
+	height: 70%;
+	display: block;
+	visibility: hidden;
+	transition : all 1s;
+	color : white;
+	padding: 5px;
+	margin-top: 5px;
+	overflow: auto;
+	text-align: justify;
+	font-family: arial;
+	font-size: 12px;
+	opacity: 0;
+	position: absolute;
+}
+
+/* 5.3. Hover de l'introduction */
+.intro:hover .intro_open{
+	display: block;
+	visibility: visible;
+	opacity: 1
+}
+
+/* Logos Facebook & Twitter */
+.logo_facebook{
+	max-width: 6% !important;
+	min-width: 80px !important;
+	opacity: .3;
+	transition: all .2s ease-in;
+}
+.logo_twitter{
+	max-width: 5% !important;
+	min-width: 66px !important;
+	padding-top: 8px;
+	opacity: .3;
+	transition: all .2s ease-in;
+}
+
+/* 6.1 Hover des logos Facebook & Twitter */
+.logo_facebook:hover{
+	opacity: .6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+     -webkit-transition: all .2s ease-in;
+     -moz-transition: all .2s ease-in;
+     -ms-transition: all .2s ease-in;
+     -o-transition: all .2s ease-in;
+     transition: all .2s ease-in;
+}
+.logo_twitter:hover{
+	opacity: .6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+     -webkit-transition: all .2s ease-in;
+     -moz-transition: all .2s ease-in;
+     -ms-transition: all .2s ease-in;
+     -o-transition: all .2s ease-in;
+     transition: all .2s ease-in;
+}
