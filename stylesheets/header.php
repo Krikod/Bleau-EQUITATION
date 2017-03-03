@@ -1,28 +1,27 @@
-<!--------------- HTML du Header ------------------>
+<!---------------- HTML du Header ------------------>
 
- <!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="fr">
 <head>
 	<meta charset="UTF-8">
 	<title>Bleau'Equitation</title>
 
-	<!-- Call CSS -->
-	<link rel="stylesheet" type="text/css" href="../assets/style_header.css">
->>>>>>> c_header
+	 Call CSS 
 
-	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="style_header.css">
+
+	Bootstrap
 	
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-	<!-- Font -->
+	Font 
 
 	<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet"> 
 
 	
 
 </head>
-
-<body> 
+<body> -->
 	
 	<div class="container-fluid container_custom">
 		

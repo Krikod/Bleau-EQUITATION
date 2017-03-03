@@ -86,22 +86,10 @@
 
 /* 5.3. Hover de l'introduction */
 .intro:hover .intro_open{
->>>>>>> c_header
 	display: block;
 	visibility: visible;
 	opacity: 1
 }
-<<<<<<< HEAD
-.pract:hover .pract_box{
-	background-image: url(http://image.noelshack.com/fichiers/2017/09/1488440710-horse-241957-640.jpg);
-	transition: all 1s;
-	border-radius: 0%;
-	border-right: 3px solid gray;
-	border-top: 3px solid gray;
-	border-bottom: 3px solid gray;
-}
-
-=======
 
 /* Logos Facebook & Twitter */
 .logo_facebook{
@@ -137,4 +125,3 @@
      -o-transition: all .2s ease-in;
      transition: all .2s ease-in;
 }
->>>>>>> c_header
