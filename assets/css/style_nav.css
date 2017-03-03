@@ -1,0 +1,29 @@
+/* style_nav.css */
+
+.container-fluid {
+    position: center;
+}
+
+.nav li {
+    min-height: 130px;
+    font-family: 'Crimson Text', serif, 'Open Sans', sans-serif;
+    list-style: none;
+    display: inline-block;
+    margin-left: 0 !important;
+    padding: 10px;
+}
+
+.nav a {
+    font-size: 2em;
+    font-weight: bold;
+    color: #2e2e1f;
+    background-color: grey;
+    display: ;
+    margin: 10px;
+    border-radius: 50%;
+    vertical-align: center !important;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    
+}
