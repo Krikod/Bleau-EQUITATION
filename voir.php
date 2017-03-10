@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="assets/css/orstyle.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/style_nav.css">
 
             <!-- Optional theme -->
 

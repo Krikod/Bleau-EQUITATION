@@ -9,7 +9,7 @@
 
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="../assets/css/style_nav.css">
+   
 </head>
 <body>
 
@@ -19,13 +19,13 @@
     <div class="row text text-center">
         <div class="col-md-12 col-sm-12">
             <ul class="nav">
-                <li><a href="/index.php" class="accueil" title="Accueil">Accueil</a>
+                <li><a href="index.php" class="accueil" title="Accueil">Accueil</a>
                 </li>
-                <li><a href="./pratiquer.php" class="icoPratiquer" title="Pratiquer">Pratiquer</a>
+                <li><a href="pratiquer.php" class="icoPratiquer" title="Pratiquer">Pratiquer</a>
                 </li>
-                <li><a href="./voir.php" class="icoVoir" title="Voir"></i>Voir</a>
+                <li><a href="voir.php" class="icoVoir" title="Voir"></i>Voir</a>
                 </li>
-                <li><a href="./index_art.php" class="icoActus" title="Actualités">Actus</a>
+                <li><a href="index_art.php" class="icoActus" title="Actualités">Actus</a>
                 </li>
             </ul>
         </div>

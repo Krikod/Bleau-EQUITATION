@@ -4,9 +4,9 @@
 	<meta charset="UTF-8">
 	<title>Bleau'Equitation</title>
 
-	<!-- Call CSS -->
+	    <!-- Call CSS -->
 
-	<link rel="stylesheet" type="text/css" href="./assets/css/style_main.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/style_main.css">
 
 	<!--Bootstrap-->
 	
@@ -23,7 +23,7 @@
 		
 		<div class="col-xs-offset-4 col-xs-8 actu">
 			
-			<div class="actualite"><a href="#">ACTUALITÉ</a></div>
+			<div class="actualite"><a href="./index_art.php">ACTUALITÉ</a></div>
 
 		</div>
 

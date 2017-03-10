@@ -4,11 +4,16 @@
     position: center;
 }
 
+/*.navigation {
+	margin-bottom: 0;
+	position: fixed;
+}*/
+
 .nav li {
     min-height: 130px;
     font-family: 'Crimson Text', serif, 'Open Sans', sans-serif;
     list-style: none;
-    display: inline-block;
+    display: inline-block !important;
     margin-left: 0 !important;
     padding: 10px;
 }
