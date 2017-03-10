@@ -21,13 +21,13 @@
     <div class="row text text-center">
         <div class="col-md-12 col-sm-12">
             <ul class="nav">
-                <li><a href="#" class="accueil" title="Accueil">Accueil</a>
+                <li><a href="/index.php" class="accueil" title="Accueil">Accueil</a>
                 </li>
-                <li><a href="#" class="icoPratiquer" title="Pratiquer">Pratiquer</a>
+                <li><a href="./pratiquer.php" class="icoPratiquer" title="Pratiquer">Pratiquer</a>
                 </li>
-                <li><a href="#" class="icoVoir" title="Voir"></i>Voir</a>
+                <li><a href="./voir.php" class="icoVoir" title="Voir"></i>Voir</a>
                 </li>
-                <li><a href="#" class="icoActus" title="Actualités">Actus</a>
+                <li><a href="./index_art.php" class="icoActus" title="Actualités">Actus</a>
                 </li>
             </ul>
         </div>
