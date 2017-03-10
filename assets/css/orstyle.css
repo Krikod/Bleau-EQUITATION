@@ -1,11 +1,24 @@
-body{ 
+body{
 	background-image: url(http://image.noelshack.com/fichiers/2017/09/1488289785-horse-shoe-110987.jpg);
-	 background-size: cover; 
-	 margin: 0; 
-	}
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+}
 
 table{
 background: rgba(255, 255, 255, .5);
+}
+.table{
+	background: rgba(255, 255, 255, .5);
+	color: black;
+}
+p{
+	text-align: justify;
+}
+.container_custom2{
+	background: rgba(255, 255, 255, .5);
+	color: black;
+
 }
 
 h1{
@@ -23,11 +36,7 @@ text-shadow: 2px 2px 0px white;
 padding: 50px 50px 50px 50px;
 }
 
-.container_custom{
-background: rgba(255, 255, 255, .5);
-color: black;
 
-}
 
 div{
 font-size: medium;
@@ -41,7 +50,7 @@ font-family: cinzel;
 }
 
 .container_intro{
-color: grey;
+color: gray;
 
 }
 

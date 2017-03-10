@@ -24,7 +24,7 @@
 
 <body>
 
-	<?php include "includes/header.php;" ?>
+	<?php include "includes/header.php"; ?>
 
 	<h1>Pratiquer à Fontainebleau</h1>
 
@@ -38,8 +38,8 @@
 
         <section class="col-lg-12">
 
-         <div> Monter à cheval ou à poney est un plaisir qui permet de se ressourcer… <br />
-          Outre la pratique sportive qui contribue au bien-être physique des pratiquants et au développement psycho- moteur chez l’enfant, <br />l’équitation est un sport de couple.<br />La relation qui se créée entre le cavalier et son cheval ou son poney lui apporte une complicité inédite avec un animal<br /> et lui fait acquérir de nombreuses connaissances sur le milieu naturel.</div>
+         <div> <p>Monter à cheval ou à poney est un plaisir qui permet de se ressourcer… <br />
+          Outre la pratique sportive qui contribue au bien-être physique des pratiquants et au développement psycho- moteur chez l’enfant, <br />l’équitation est un sport de couple.<br />La relation qui se créée entre le cavalier et son cheval ou son poney lui apporte une complicité inédite avec un animal<br /> et lui fait acquérir de nombreuses connaissances sur le milieu naturel.</p></div>
 
 
         </section>
@@ -49,7 +49,7 @@
 
 										<!-- video de presentation -->
 
-	<div class="container container video">
+	<div class="container video">
 
         
 

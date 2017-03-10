@@ -2,9 +2,11 @@
 
 footer {
     color: #2e2e1f;
-    background-color: rgba(168, 168, 168, 0.9);
+    border-top: 2px solid white;
+    color: white;
     min-height: 200px;
     font-family: 'Crimson Text', serif, 'Open Sans', sans-serif;
+    background-color: none!important;
 }
 /* footer social icons */
 
@@ -80,7 +82,7 @@ a.socialIcon:hover,
     transition: all 0.8s;
 }
 a {
-    background-color: #D3D3D3;
+    ;
 }
 /* CSS for input-group */
 
@@ -91,7 +93,7 @@ a {
 a.btn.btn-custom {
     color: #2e2e1f;
     box-shadow: 2px 2px 2px 4px grey;
-    background-color: #ffff99;
+    background-color: white;
     text-align: center;
     vertical-align: middle;
     height: 130px;

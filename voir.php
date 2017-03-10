@@ -23,13 +23,13 @@
 
 <body>
 
-        <?php include "includes/header.php;" ?>
+        <?php include "includes/header.php"; ?>
 
 <h1>Voir à Fontainebleau</h1>
 
                                         <!-- presentation à voir à Fontainebleau-->
 
-<div class="container container_intro">
+<div class="container-fluid container_intro">
 
 
       <div class="row">
@@ -65,7 +65,7 @@
 
 <h2>A voir</h2>
 
-<div class="container container_custom">
+<div class="container container_custom2">
 
 
       <div class="row">
