@@ -19,29 +19,7 @@
 </head>
 <body>
 
-	<div class="row row_custom">
-		
-		<div class="col-xs-offset-2 col-xs-6 to_see">
-			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="voir.php">À voir</a></div>
-			<div class="col-xs-offset-0 col-xs-9 to_see_text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-				
-		</div>
-
-		<img src="http://www.infos-mobiles.com/wp-content/uploads/2016/08/google-maps-53-535x535.png" class="col-xs-offset-0 col-xs-2 maps">
-
-	</div>
-
-	<div class="row row_custom">
+		<div class="row row_custom">
 		
 		<div class="col-xs-offset-2 col-xs-8 actu">
 			
@@ -50,22 +28,28 @@
 		</div>
 
 	</div>
+	<br><br><br><br><br><br><br>
 
+	<div class="row row_custom">
+		
+		<div class="col-xs-offset-2 col-xs-6 to_see">
+			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="voir.php">À voir</a></div>
+			<div class="col-xs-offset-0 col-xs-9 to_see_text"><p>La ville de Fontainebleau (ville du sud-est du département de Seine-et-Marne, commune la plus vaste de la région Île-de-France <br />avec quelques 17 205 hectares...) est réputée comme étant LA capitale du cheval. <br />Elle dispose de centaines de kilomètres de promenade en forêt, et de nombreux centres équestres.</p></div>
+				
+		</div>
+
+
+		<div class="col-xs-offset-0 col-xs-2"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2649.3479092751336!2d2.670514951160147!3d48.39226154126523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5f33020fa407b%3A0xf7856d70b43f93b5!2sStade+Equestre+du+Grand+Parquet!5e0!3m2!1sfr!2sfr!4v1489139526342" width="200" height="200" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+
+	</div>
+
+	<br><br><br><br><br><br><br>
 	<div class="row row_custom">
 		
 		<img src="http://www.printablecalendar.ca/images/beaucal-miniMonths.png" class="col-xs-offset-2 col-xs-2 calendar">
 		<div class="col-xs-offset-0 col-xs-6 pract">
-			<div class="col-xs-offset-0 col-xs-9 pract_text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+			<div class="col-xs-offset-0 col-xs-9 pract_text"><p>Monter à cheval ou à poney est un plaisir qui permet de se ressourcer… <br />
+          Outre la pratique sportive qui contribue au bien-être physique des pratiquants et au développement psycho- moteur chez l’enfant, <br />l’équitation est un sport de couple.<br />La relation qui se créée entre le cavalier et son cheval ou son poney lui apporte une complicité inédite avec un animal<br /> et lui fait acquérir de nombreuses connaissances sur le milieu naturel.</p></div>
 			<div class="col-xs-offset-0 col-xs-3  pract_box"><br /><a href="pratiquer.php">Pratiquer</a></div>
 
 	</div>

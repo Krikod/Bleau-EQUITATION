@@ -33,20 +33,6 @@
 <div class="container container_intro">
 
 
-      <div class="row">
-
-
-        <section class="col-lg-12">
-
-         <div> <p>Monter à cheval ou à poney est un plaisir qui permet de se ressourcer… <br />
-          Outre la pratique sportive qui contribue au bien-être physique des pratiquants et au développement psycho- moteur chez l’enfant, <br />l’équitation est un sport de couple.<br />La relation qui se créée entre le cavalier et son cheval ou son poney lui apporte une complicité inédite avec un animal<br /> et lui fait acquérir de nombreuses connaissances sur le milieu naturel.</p></div>
-
-
-        </section>
-
-
-      </div>
-
 										<!-- video de presentation -->
 
 	<div class="container video">
@@ -152,18 +138,21 @@
 
   										<!-- Promenade à cheval -->  
 
-  <h2> Promenade à cheval </h2>
+  
 
 <section class="col-sm-">
 
-        </section>
 
+        </section>
+          
       </div>
 
       <div class="row">
 
         <section class="col-sm-offset-2 col-sm-8">
-
+  
+  
+<h2>Balades à cheval</h2>
           <table class="table">
 
             <thead>

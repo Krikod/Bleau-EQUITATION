@@ -32,18 +32,7 @@
 <div class="container-fluid container_intro">
 
 
-      <div class="row">
 
-
-        <section class="col-lg-12">
-
-          <div>La ville de Fontainebleau (ville du sud-est du département de Seine-et-Marne, commune la plus vaste de la région Île-de-France <br />avec quelques 17 205 hectares...) est réputée comme étant LA capitale du cheval. <br />Elle dispose de centaines de kilomètres de promenade en forêt, et de nombreux centres équestres.</div>
-
-
-        </section>
-
-
-      </div>
 
 
                                         <!-- video de presentation -->
