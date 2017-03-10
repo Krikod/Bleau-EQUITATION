@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Bleau'Equitation</title>
+	<title>2Bleau'Equitation</title>
 
 	<!-- Call CSS -->
 
-	<link rel="stylesheet" type="text/css" href="./assets/css/style_main.css">
+	<link rel="stylesheet" type="text/css" href="style_header.css">
+	<link rel="stylesheet" type="text/css" href="style_main.css">
 
 	<!--Bootstrap-->
 	
@@ -22,7 +23,7 @@
 	<div class="row row_custom">
 		
 		<div class="col-xs-offset-2 col-xs-6 to_see">
-			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="voir.php">À voir</a></div>
+			<div class="col-xs-offset-0 col-xs-3  to_see_box"><br /><a href="#">À voir</a></div>
 			<div class="col-xs-offset-0 col-xs-9 to_see_text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -66,7 +67,7 @@
 			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-			<div class="col-xs-offset-0 col-xs-3  pract_box"><br /><a href="pratiquer.php">Pratiquer</a></div>
+			<div class="col-xs-offset-0 col-xs-3  pract_box"><br /><a href="#">Pratiquer</a></div>
 
 	</div>
 

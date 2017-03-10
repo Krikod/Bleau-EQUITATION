@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<a href="index_art.php">
+=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,3 +79,4 @@
 	
 </body>
 </html>
+>>>>>>> dev
