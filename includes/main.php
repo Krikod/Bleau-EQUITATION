@@ -21,9 +21,9 @@
 
 		<div class="row row_custom">
 		
-		<div class="col-xs-offset-2 col-xs-8 actu">
+		<div class="col-xs-offset-4 col-xs-8 actu">
 			
-			<span>ACTUALITÉ <a href="#">►</a></span>
+			<div class="actualite"><a href="#">ACTUALITÉ</a></div>
 
 		</div>
 

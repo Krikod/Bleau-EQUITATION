@@ -16,7 +16,7 @@
 
 /* 1. Body & Paragraphes & liens */
 body{
-	background-image: url(http://image.noelshack.com/fichiers/2017/09/1488289785-horse-shoe-110987.jpg);
+	background-image: url('http://image.noelshack.com/fichiers/2017/10/1489142310-horse-2059504.jpg');
 	background-size: cover;
 	position: fixed;
 	margin: 0;
@@ -104,7 +104,10 @@ a:active {
 	height: 80%;
 	margin-top: 1%;
 }
-span{
+.actualite{
+	height: 100px;
+	width: 500px;
+	background: rgba(255,255,255, .5);
 	letter-spacing: 15px;
 	font-family: 'Cinzel', serif;
 	font-size: 40px;
@@ -113,10 +116,13 @@ span{
 	color: gray;
 	text-shadow: 0px 0px 5px black;
 	transition: all 1s;
+	padding-top: 20px;
+	border-radius: 50%;
 }
-span:hover{
-	text-shadow: 0px 0px 10px white;
+.actualite:hover{
+	text-shadow: 0px 0px 10px black;
 	transition: all 1s;
+	border-radius: 20%;
 }
 
 /* 6. Pratiquer "parent" */
